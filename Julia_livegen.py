@@ -20,7 +20,7 @@ class JuliaBox:
         self.setup = setup_instance  # Assign the passed setup instance
 
         self.root = tk.Tk()
-        self.root.title("Julia AI - Becca")
+        self.root.title("Julia AI")
         self.root.geometry("1600x900")
         self.root.configure(bg="black")
 
