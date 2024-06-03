@@ -89,14 +89,14 @@ First, ensure you have Python, `pip`, and `Tkinter` installed on your computer.
 
 2. Clone the repository using Git:
    ```sh
-   git clone https://github.com/yourusername/Julia_Ecoverse.git
+   git clone https://github.com/yourusername/Julia_Journal.git
    ```
 
 ### Step 2: Create a Virtual Environment
 
 1. Navigate to the project directory:
    ```sh
-   cd Julia_Ecoverse
+   cd Julia_Journal
    ```
 
 2. Create a virtual environment:
